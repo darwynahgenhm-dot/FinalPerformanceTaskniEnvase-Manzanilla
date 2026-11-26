@@ -4,7 +4,7 @@
 <head>
     <title>DONUT Eats</title>
     
-    <meta property="og:image" content="https://images.unsplash.comit">
+    <meta property="og:image" content="https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=600&q=80">
 
     <style>
         body {
